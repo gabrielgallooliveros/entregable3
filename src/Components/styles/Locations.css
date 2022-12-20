@@ -1,0 +1,28 @@
+
+.container__locations {
+  margin: 0 auto;
+  max-width: 1200px;
+}
+.title__locations {
+  text-align: center;
+  color: rgb(195, 224, 195);
+  font-size: 1.5rem;
+  margin-top: 3rem;
+  font-weight: 500;
+}
+
+.list__locations {
+  display: flex;
+  justify-content: space-around;
+}
+
+.span__location {
+  color: rgb(0, 255, 106);
+  font-size: 18px;
+}
+
+.item__location {
+  color: rgb(228, 222, 222);
+  font-size: 1rem;
+  font-weight: 400;
+}
